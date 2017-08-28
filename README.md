@@ -26,13 +26,13 @@
 ### Graph Theory
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:---------------:| -----
-|  |[Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development)| Python | | | Medium | 10 | ||
+|  |[Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development)| | | | Medium | | ||
 
 ### NP Complete
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:---------------:| -----
-|  |[Walking the Approximate Longest Path](https://www.hackerrank.com/challenges/walking-the-approximate-longest-path)| Python | | | Hard | 10 | ||
-|  |[Sam's Puzzle](https://www.hackerrank.com/challenges/sams-puzzle)| Python | | | Advanced | 10 | ||
+|  |[Walking the Approximate Longest Path](https://www.hackerrank.com/challenges/walking-the-approximate-longest-path)| | | | Hard | | ||
+|  |[Sam's Puzzle](https://www.hackerrank.com/challenges/sams-puzzle)| | | | Advanced | | ||
 
 ## 2. Data Structure 
 ### Arrays
@@ -49,11 +49,24 @@
 
 # Codility
 ## 1. Iterations
-### Dynamic Programming
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:---------------:| -----
-|  |[Binary Gap](https://codility.com/c/run/trainingBVEWHG-T8K)| [Python](codility/binary-gap/solution.py), [Swift](codility/binary-gap/solution.swift) | _O(log(n))_ | _O(log(n))_ | Medium | 50 | ||
+|  |[Binary Gap](https://codility.com/c/run/trainingBVEWHG-T8K)| [Python](codility/binary-gap/solution.py), [Swift](codility/binary-gap/solution.swift) | _O(log(n))_ | _O(log(n))_ | Painless | | ||
 
+## 2. Arrays
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:---------------:| -----
+|  |[Tape Equilibrium](https://codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)| [Swift](codility/tape-equilibrium/solution.swift) | _O(n)_ | _O(n)_ | Painless | | ||
+
+## 3. Time Complexity
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:---------------:| -----
+|  |[Odd Occurrences In Array](https://codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)| [Swift](codility/tape-equilibrium/solution.swift) | _O(n)_ | _O(n)_ | Painless | | ||
+
+## 4. Counting Elements
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:---------------:| -----
+|  |[Missing Integer](https://codility.com/programmers/lessons/4-counting_elements/missing_integer/)| [Swift](codility/missing-integer/solution.swift) | _O(n)_ | _O(n)_ | Painless | | ||
 
 # ETC
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note
