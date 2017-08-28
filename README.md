@@ -11,8 +11,10 @@
 	If you are interested in making a solution sheet or have a better solution or in a different language, feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-5-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Language-Python/Swift/Haskell-orange.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-9-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Language-Python-orange.svg">
+    <img src="https://img.shields.io/badge/Language-Swift-orange.svg">
+    <img src="https://img.shields.io/badge/Language-Haskell-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-08/27/2017-brightgreen.svg">
 </p>
 
@@ -61,7 +63,7 @@
 ## 3. Time Complexity
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:---------------:| -----
-|  |[Odd Occurrences In Array](https://codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)| [Swift](codility/tape-equilibrium/solution.swift) | _O(n)_ | _O(n)_ | Painless | | ||
+|  |[Odd Occurrences In Array](https://codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)| [Swift](codility/odd-occurrences-in-array/solution.swift) | _O(n)_ | _O(n)_ | Painless | | ||
 
 ## 4. Counting Elements
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
