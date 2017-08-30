@@ -30,6 +30,13 @@
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:---------------:| -----
 |  |[Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development)| | | | Medium | | ||
 
+### Search
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:---------------:| -----
+|  |[Icecream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)| [Swift](hackerrank/icecream-parlor/solution.swift) | | | Easy | 30 | ||
+|  |[Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters)| Swift | | | Medium | | ||
+
+
 ### NP Complete
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:---------------:| -----
