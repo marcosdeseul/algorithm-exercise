@@ -20,9 +20,10 @@ if let file = file {
     let lines:[String] = str.characters.split{$0 == "\n"}.map(String.init)
     var arr:[Int] = lines[0].components(separatedBy: " ").map{ Int($0)! }
     let startTime = Date()
-    print(solution(&arr))
+    let result = solution(&arr)
     let endTime = Date()
-    // Milli Seconds
+    print(result)
+    // Milli Seconds    
     print((endTime.timeIntervalSince1970 - startTime.timeIntervalSince1970) * 1000)
 } else {
     print("File was not loaded")
