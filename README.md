@@ -28,12 +28,12 @@
 ### Graph Theory
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:---------------:| -----
-|  |[Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development)| | | | Medium | | ||
+|  |[Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development)| | | | Medium | 30 | ||
 
 ### Search
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:---------------:| -----
-|  |[Icecream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)| [Swift](hackerrank/icecream-parlor/solution.swift) | | | Easy | 30 | ||
+|  |[Icecream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)| [Swift](hackerrank/icecream-parlor/solution.swift) | _O(n^2)_ | _O(n^2)_ | Easy | 30 | ||
 |  |[Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters)| Swift | | | Medium | | ||
 
 
@@ -48,12 +48,17 @@
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:---------------:| -----
 |  |[2D Array](https://www.hackerrank.com/challenges/2d-array)| [Python](hackerrank/2d-array/solution.py), [Swift](hackerrank/2d-array/solution.swift) | _O(n)_ | _O(n)_ | Easy | 15 | ||
-|  |[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array)| [Python](hackerrank/dynamic-array/solution.py) | _O(n)_ | _O(n)_ | Easy | 15 | ||
+|  |[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array)| | _O(n)_ | _O(n)_ | Easy | 15 | ||
 
 ### Linked Lists 
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:---------------:| -----
 |  |[Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list)| [Python](hackerrank/print-the-elements-of-a-linked-list/solution.py) | | | Easy | 5 | ||
+
+### Trie
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:---------------:| -----
+|  |[Contacts](https://www.hackerrank.com/challenges/contacts)| [Python](hackerrank/contacts/solution.py), [Java](hackerrank/contacts/solution.java) | | | Medium | 40 | ||
 
 
 # Codility
